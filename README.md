@@ -18,7 +18,7 @@ Este projeto é um sistema de pedidos de pizzaria desenvolvido utilizando tecnol
 
 ### Banco de Dados
 
-- **(Inserir o banco de dados utilizado, por exemplo, MongoDB, MySQL, SQLite)**
+- **MySQL**
 
 ### Controle de Versão
 
@@ -26,7 +26,7 @@ Este projeto é um sistema de pedidos de pizzaria desenvolvido utilizando tecnol
 
 ### Hospedagem
 
-- **(Inserir a plataforma de hospedagem utilizada, por exemplo, Vercel, Heroku)**
+- **Vercel**
 
 ## Funcionalidades Principais
 
