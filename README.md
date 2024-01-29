@@ -10,6 +10,7 @@ Este projeto é um sistema de pedidos de pizzaria desenvolvido utilizando tecnol
 
 - **Vue.js:** Framework JavaScript para construção de interfaces de usuário reativas.
 - **HTML5 e CSS3:** Tecnologias padrão para estruturação e estilização de páginas web.
+- **Tailwind CSS:** Framework de utilitários CSS para estilização eficiente.
 
 ### Back-end
 
