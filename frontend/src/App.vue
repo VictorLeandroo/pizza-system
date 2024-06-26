@@ -6,6 +6,7 @@
 <script>
 import axios from 'axios';
 
+<script>
 export default {
   name: 'App',
   components: {
