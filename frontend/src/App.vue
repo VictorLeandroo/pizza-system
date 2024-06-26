@@ -1,5 +1,6 @@
 <template>
   <span>{{ ordersList }}</span>
+  <router-view></router-view>
 </template>
 
 <script>
